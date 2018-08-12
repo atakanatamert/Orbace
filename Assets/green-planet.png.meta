@@ -1,0 +1,1187 @@
+fileFormatVersion: 2
+guid: 38a87b7b605e29041907f1458441bee0
+timeCreated: 1534019819
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: green-planet_0
+    21300002: green-planet_1
+    21300004: green-planet_2
+    21300006: green-planet_3
+    21300008: green-planet_4
+    21300010: green-planet_5
+    21300012: green-planet_6
+    21300014: green-planet_7
+    21300016: green-planet_8
+    21300018: green-planet_9
+    21300020: green-planet_10
+    21300022: green-planet_11
+    21300024: green-planet_12
+    21300026: green-planet_13
+    21300028: green-planet_14
+    21300030: green-planet_15
+    21300032: green-planet_16
+    21300034: green-planet_17
+    21300036: green-planet_18
+    21300038: green-planet_19
+    21300040: green-planet_20
+    21300042: green-planet_21
+    21300044: green-planet_22
+    21300046: green-planet_23
+    21300048: green-planet_24
+    21300050: green-planet_25
+    21300052: green-planet_26
+    21300054: green-planet_27
+    21300056: green-planet_28
+    21300058: green-planet_29
+    21300060: green-planet_30
+    21300062: green-planet_31
+    21300064: green-planet_32
+    21300066: green-planet_33
+    21300068: green-planet_34
+    21300070: green-planet_35
+    21300072: green-planet_36
+    21300074: green-planet_37
+    21300076: green-planet_38
+    21300078: green-planet_39
+    21300080: green-planet_40
+    21300082: green-planet_41
+    21300084: green-planet_42
+    21300086: green-planet_43
+    21300088: green-planet_44
+    21300090: green-planet_45
+    21300092: green-planet_46
+    21300094: green-planet_47
+    21300096: green-planet_48
+    21300098: green-planet_49
+    21300100: green-planet_50
+    21300102: green-planet_51
+    21300104: green-planet_52
+    21300106: green-planet_53
+    21300108: green-planet_54
+    21300110: green-planet_55
+    21300112: green-planet_56
+    21300114: green-planet_57
+    21300116: green-planet_58
+    21300118: green-planet_59
+    21300120: green-planet_60
+    21300122: green-planet_61
+    21300124: green-planet_62
+    21300126: green-planet_63
+    21300128: green-planet_64
+    21300130: green-planet_65
+    21300132: green-planet_66
+    21300134: green-planet_67
+    21300136: green-planet_68
+    21300138: green-planet_69
+    21300140: green-planet_70
+    21300142: green-planet_71
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green-planet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2220
+        width: 184
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2220
+        width: 181
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2221
+        width: 176
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2220
+        width: 174
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_4
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2220
+        width: 175
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_5
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2221
+        width: 176
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2036
+        width: 176
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2036
+        width: 176
+        height: 177
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2034
+        width: 176
+        height: 179
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_9
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2037
+        width: 173
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_10
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2037
+        width: 172
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_11
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2037
+        width: 176
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1851
+        width: 180
+        height: 179
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1851
+        width: 182
+        height: 179
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1853
+        width: 184
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1851
+        width: 180
+        height: 179
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_16
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1851
+        width: 178
+        height: 177
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_17
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1851
+        width: 175
+        height: 179
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1669
+        width: 174
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1668
+        width: 176
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1669
+        width: 179
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_21
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1668
+        width: 177
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_22
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1668
+        width: 175
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_23
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1668
+        width: 176
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1484
+        width: 173
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1484
+        width: 173
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_26
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1484
+        width: 177
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_27
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1484
+        width: 184
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_28
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1484
+        width: 188
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_29
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1485
+        width: 183
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1299
+        width: 179
+        height: 177
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1301
+        width: 174
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_32
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1299
+        width: 174
+        height: 177
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_33
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1299
+        width: 175
+        height: 178
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_34
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1299
+        width: 176
+        height: 178
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_35
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1300
+        width: 175
+        height: 177
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1115
+        width: 176
+        height: 179
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1116
+        width: 173
+        height: 178
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_38
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1115
+        width: 173
+        height: 179
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_39
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1115
+        width: 172
+        height: 179
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_40
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1115
+        width: 178
+        height: 177
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_41
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1115
+        width: 178
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 932
+        width: 182
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 932
+        width: 183
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_44
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 932
+        width: 181
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_45
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 932
+        width: 176
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_46
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 932
+        width: 172
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_47
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 932
+        width: 174
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 749
+        width: 176
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_49
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 748
+        width: 176
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_50
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 748
+        width: 175
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_51
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 748
+        width: 175
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_52
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 749
+        width: 172
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_53
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 749
+        width: 173
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 564
+        width: 174
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_55
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 563
+        width: 178
+        height: 178
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 564
+        width: 183
+        height: 177
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_57
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 564
+        width: 185
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_58
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 562
+        width: 181
+        height: 177
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_59
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 563
+        width: 177
+        height: 178
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 380
+        width: 176
+        height: 178
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_61
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 380
+        width: 172
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_62
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 379
+        width: 174
+        height: 179
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_63
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 381
+        width: 176
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_64
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 379
+        width: 176
+        height: 179
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_65
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 380
+        width: 176
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_66
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 197
+        width: 174
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_67
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 196
+        width: 172
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_68
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 196
+        width: 174
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_69
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 197
+        width: 176
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_70
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 196
+        width: 182
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green-planet_71
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 196
+        width: 183
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
