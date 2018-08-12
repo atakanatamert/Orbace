@@ -149,4 +149,12 @@ public class SpaceshipMovement : MonoBehaviour {
         }
     }
 
+    private void OnBecameInvisible() {
+        Debug.Log("Invisible");
+        Invoke("LoadOver", 5);
+    }
+
+    private void LoadOver(){
+        SceneManager.LoadScene("GameOver");
+    }
 }
